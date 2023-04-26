@@ -1,0 +1,5 @@
+R_usingVelocity.C
+
+LIB = $(FOAM_USER_LIBBIN)/libqR_usingVelocity
+
+
