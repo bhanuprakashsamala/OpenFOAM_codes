@@ -1,0 +1,5 @@
+eigenValues_anisoR.C
+
+LIB = $(FOAM_USER_LIBBIN)/libqeigenValues_anisoR
+
+
