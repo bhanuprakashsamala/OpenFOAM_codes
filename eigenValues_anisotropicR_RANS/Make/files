@@ -1,0 +1,5 @@
+eigenValues_anisotropicR_RANS.C
+
+LIB = $(FOAM_USER_LIBBIN)/libqeigenValues_anisotropicR_RANS
+
+
