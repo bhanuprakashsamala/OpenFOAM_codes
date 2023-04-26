@@ -1,0 +1,5 @@
+anisotropicR.C
+
+LIB = $(FOAM_USER_LIBBIN)/libqanisotropicR
+
+
